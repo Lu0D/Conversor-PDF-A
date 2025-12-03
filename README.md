@@ -2,6 +2,7 @@
 
 [![Offline](https://img.shields.io/badge/status-offline%20only-brightgreen)](https://github.com/seu-usuario/conversor-pdfa)
 [![Windows](https://img.shields.io/badge/platform-Windows-blue)](https://github.com/seu-usuario/conversor-pdfa)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Uma ferramenta **simples, local e offline** para converter arquivos PDF comuns para o formato arquivístico **PDF/A** (ISO 19005), compatível com exigências legais, fiscais e de preservação digital.
 
