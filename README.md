@@ -77,4 +77,5 @@ Se quiser distribuir o conversor **sem exigir que o usuário instale Python**, v
     pyinstaller --onefile --windowed --add-data "sRGB_IEC61966-2-1_black_scaled.icc;." conversor_pdfa_gui.py
     
 ✅ O executável será criado em dist\conversor_pdfa_gui.exe.
+
 ✅ Esse .exe já inclui o perfil ICC e não precisa de arquivos externos (mas ainda exige o Ghostscript instalado na máquina de destino).
