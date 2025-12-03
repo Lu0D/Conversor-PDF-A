@@ -45,13 +45,9 @@ Você precisa instalar **três componentes** (todos gratuitos):
 - [`sRGB_IEC61966-2-1_black_scaled.icc`](https://www.color.org/sRGB_IEC61966-2-1_black_scaled.icc)
 - [`ConverterPDFA.bat`](./ConverterPDFA.bat)
 
-### 2. Monte a estrutura de pastas
+## 2. Estrutura de arquivos
 
-ConversorPDF-A/
-├── conversor_pdfa_gui.py
-├── sRGB_IEC61966-2-1_black_scaled.icc
-└── ConverterPDFA.bat
-
+Todos os arquivos devem estar na mesma pasta (raiz do projeto):
 
 ### 3. Execute
 
