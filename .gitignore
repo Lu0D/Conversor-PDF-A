@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.venv/
+venv/
+env/
+
+# PyInstaller (build artifacts)
+build/
+dist/
+*.spec
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Logs, backups e temporários
+*.log
+*.bak
+*.tmp
+
+# Executáveis locais (evita commit acidental de .exe)
+*.exe
